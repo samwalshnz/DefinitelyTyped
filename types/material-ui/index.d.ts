@@ -203,6 +203,7 @@ declare namespace __MaterialUI {
             spacing?: Spacing;
             fontFamily?: string;
             palette?: ThemePalette;
+            borderRadius?: number;
             isRtl?: boolean;
             userAgent?: string | boolean;
             zIndex?: zIndex;
